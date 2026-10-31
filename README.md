@@ -19,7 +19,7 @@ All 260 samples completed. The original launcher's broad input guard stopped bec
 
 The technical CSV ratios compare Vanilla at the same UI cadence. The companion guide's percentage charts instead use one fixed reference: total timeline CPU work of Vanilla at 30 UI FPS = 100%, for both cadence selections. Observed min/max ranges are not confidence intervals; five repetitions within one JVM per scenario do not establish between-machine or between-process uncertainty.
 
-The companion Steam guide will be linked after its publication.
+Companion Steam guide: [UI Mods and Performance: a Controlled Watch UI Case Study](https://steamcommunity.com/sharedfiles/filedetails/?id=3830533978).
 
 ## Evidence archive SHA-256
 
